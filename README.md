@@ -9,7 +9,7 @@
 メッシュを作成したいアーマチュアを選択し、「編集モード」に移行、
 ボーンすべてを選択状態にして、メニューから「追加」 > 「選択ボーンからメッシュ」を選択。
 
-![設定](https://raw.github.com/kurotori4423/BoneToMesh_Blender/images/setting.gif)
+![設定](https://user-images.githubusercontent.com/42085932/43673750-05ee410e-9803-11e8-9272-b7a25e933928.gif)
 
 ## 参考にさせていただいたサイト
 ボーンからメッシュ形状を作成するアドオン - Blenderとかとか
